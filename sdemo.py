@@ -10,3 +10,9 @@ y = 15
 print(y)
 
 print(' bye ...')
+
+print (' Hi, i am in this time, ..')
+
+d = 6
+
+print(d)
